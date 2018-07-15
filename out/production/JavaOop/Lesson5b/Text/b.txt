@@ -1,0 +1,4 @@
+Hello, java!
+Hello, Java, World!
+It`s not work!
+It`s work!
